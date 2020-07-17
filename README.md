@@ -1,6 +1,4 @@
 # Automated Building Detection using Neat-EO.pink
-Below steps describe the initial tests with Neat-EO.pink.
-
 
 ## Dataset - xView2 Challenge
 
