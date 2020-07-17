@@ -6,10 +6,10 @@ _pycache_/
 # Keep folder structure
 !*/*/images/.gitkeep
 !*/*/labels/.gitkeep
-!model/.gitkeep
+!experiments/.gitkeep
 
 # Ignore xview data
-model/
+experiments/
 */*/labels
 */*/images
 */*/train
