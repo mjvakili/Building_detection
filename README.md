@@ -25,3 +25,5 @@ python neat-eo preprocess_xview.py [--config] [--crop]
 
 ```
 The above command will create the dataset as per the specifications.
+
+## Initial results
