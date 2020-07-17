@@ -56,6 +56,37 @@ Images corresponding to nepal-flooding disaster which were not part of `train.ta
 
 Mean IOU: 0.6927478022575819
 
+### Example 1:
+
+| Image        | Label         | 
+| ------------- |:-------------:|
+| ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_1/image.png)      | ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_1/label.png) | 
+
+| Prediction        | Diff map         | 
+| ------------- |:-------------:|
+| ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_1/prediction.png)      | ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_1/diff_map.png) | 
+
+### Example 2:
+| Image        | Label         | 
+| ------------- |:-------------:|
+| ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_2/image.png)      | ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_2/label.png) | 
+
+| Prediction        | Diff map         | 
+| ------------- |:-------------:|
+| ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_2/prediction.png)      | ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_2/diff_map.png) | 
+
+
+### Example 3:
+
+| Image        | Label         | 
+| ------------- |:-------------:|
+| ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_3/image.png)      | ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_3/label.png) | 
+
+| Prediction        | Diff map         | 
+| ------------- |:-------------:|
+| ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_3/prediction.png)      | ![](https://github.com/Wessel93/Building_detection/blob/master/examples/Example_3/diff_map.png) | 
+
+
 
 
 ## Next steps
