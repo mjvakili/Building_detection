@@ -43,12 +43,13 @@ optional arguments:
 
 ## Initial results
 
-#Model: https://rodekruis.sharepoint.com/sites/510-Team/Gedeelde%20%20documenten/%5BPRJ%5D%20Automated%20Damage%20Assessment/Automated%20Building%20Detection/pth/checkpoint-00050-training-11012020.pth
+##### Model: 
+https://rodekruis.sharepoint.com/sites/510-Team/Gedeelde%20%20documenten/%5BPRJ%5D%20Automated%20Damage%20Assessment/Automated%20Building%20Detection/pth/checkpoint-00050-training-11012020.pth
 
-# Trained on:
+##### Trained on:
 `train.tar`as downloaded from https://xview2.org/dataset
 
-# Tested on:
+##### Tested on:
 Images corresponding to nepal-flooding disaster which were not part of `train.tar`. 
 
 _Initial Results_:
