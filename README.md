@@ -24,6 +24,8 @@ The training dataset can be created by executing the following command:
 ```
 python neat-eo/preprocess_xview.py --config ../config.toml --crop 512 512
 ```
-The above command will create the dataset as per the specifications.
+The above command will create the dataset as per the specifications and splits the 1024 x 1024 images into four 512 x 512 images. 
+
+
 
 ## Initial results
