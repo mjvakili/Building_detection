@@ -1,7 +1,7 @@
 # Automated Building Detection using Neat-EO.pink
 
 ## Network & setup
-Network details and how to setup can be found here: https://github.com/datapink/Neat-EO.pink. Advised to walk through the tutorial.
+Network details and how to setup can be found here: https://neat-eo.pink. Advised to walk through the tutorial.
 
 ## Dataset - xView2 Challenge
 
