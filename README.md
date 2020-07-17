@@ -28,7 +28,7 @@ The above command will create the dataset as per the specifications and splits t
 
 ##### Configuration:
 
-`sint_maarten_2017.py` accepts the command line arguments described below,
+`preprocess_xview.py` accepts the command line arguments described below,
 
 ```
 usage: preprocess_xview.py [-h] --config CONFIG --crop WIDTH HEIGHT 
