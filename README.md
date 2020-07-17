@@ -52,9 +52,11 @@ https://rodekruis.sharepoint.com/sites/510-Team/Gedeelde%20%20documenten/%5BPRJ%
 ##### Tested on:
 Images corresponding to nepal-flooding disaster which were not part of `train.tar`. 
 
-_Initial Results_:
+##### Initial Results_:
 
 Mean IOU: 0.6927478022575819
+
+
 
 ## Next steps
 
