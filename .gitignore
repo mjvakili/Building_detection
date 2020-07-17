@@ -1,0 +1,21 @@
+.idea/
+*/_pycache_/
+_pycache_/
+*.pyc
+
+# Keep folder structure
+!*/*/images/.gitkeep
+!*/*/labels/.gitkeep
+!model/.gitkeep
+
+# Ignore xview data
+model/
+*/*/labels
+*/*/images
+*/*/train
+*/*/test
+*/*/validation
+*/*/key.txt
+
+papers/
+
