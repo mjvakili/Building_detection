@@ -137,7 +137,7 @@ def create_datapoints(config, crop_res):
     Adjust dataloader?
     """
 
-    root = "../data/xview/"
+    root = "data/xview/"
 
     # Fetch all pre disaster json files
     labels_pre = Path(root + 'labels').rglob(pattern=f'*pre_*.json')
