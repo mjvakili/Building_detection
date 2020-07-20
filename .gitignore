@@ -9,7 +9,6 @@ _pycache_/
 !experiments/.gitkeep
 
 # Ignore xview data
-experiments/
 */*/labels
 */*/images
 */*/train
@@ -17,6 +16,10 @@ experiments/
 */*/validation
 */*/key.txt
 
+# Ignore Sint Maarten data
+*/sint_maarten
+
 papers/
 data/xview/run.log
+experiments/
 
