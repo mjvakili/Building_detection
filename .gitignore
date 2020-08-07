@@ -22,4 +22,5 @@ _pycache_/
 papers/
 data/xview/run.log
 experiments/
+run.log
 

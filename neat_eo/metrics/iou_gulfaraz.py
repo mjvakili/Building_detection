@@ -151,17 +151,18 @@ def main():
     label_paths.sort(key=natural_keys)
     labels = [np.asarray(Image.open(label), dtype='int32') for label in label_paths]
 
+
     # Load masks
     mask_paths = glob.glob(os.path.join(args.dataset, "masks", "[0-9]*/[0-9]*/[0-9]*.*"))
     mask_paths.sort(key=natural_keys)
     masks = [np.asarray(Image.open(mask), dtype='int32') for mask in mask_paths]
 
-    iou = iou_binary(labels, masks)
+    iou = iou_binary(masks, labels)
     logger.info("Mean Iou: {}".format(iou))
 
     if args.eval_maps:
         logger.info("Creating evaluation maps")
-        eval_map(labels, masks, args.dataset)
+        eval_map(masks, labels, args.dataset)
 
 
 if __name__ == "__main__":
