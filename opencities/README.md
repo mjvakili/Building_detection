@@ -1,9 +1,11 @@
-# Stand-alone script for downloading and preprocessing the open-cities data
+### Stand-alone script for downloading and preprocessing the open-cities data
 
-##requirements:
+taken entirely from the winner solution of the challenge
 
-rasterio 
+#### requirements:
 
-pandas
+``rasterio pandas``
 
 
+#### todo:
+preprocessing of the training data
