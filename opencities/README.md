@@ -5,7 +5,3 @@ taken entirely from the [winner solution of the challenge](https://github.com/dr
 #### requirements:
 
 ``rasterio pandas``
-
-
-#### todo:
-preprocessing of the training data
